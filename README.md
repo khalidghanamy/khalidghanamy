@@ -21,7 +21,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ghanamy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ghanamy_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khalid gamal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid gamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khalid-ghanamy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid gamal" height="30" width="40" /></a>
 </p>
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
