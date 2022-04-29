@@ -1,4 +1,4 @@
-<div align='center'><img  src="https://media4.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=6c09b952zzt3l08yw5kp3mz2fss9b9cvkfqph1wu4ob0mnmj&rid=giphy.gif&ct=s" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Developer Animation by Ravindra Prajapati on Dribbble" data-noaft="1" style="width: 588px; height: 441px; margin: 0px;"> </div>
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
 
 <h1 align="center">Hi 👋, I'm Khalid Gamal Hamed</h1>
 <h3 align="center"> full-stack developer and a petroleum engineer from Egypt</h3>
