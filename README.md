@@ -1,5 +1,8 @@
+<div align='center'>
+<img src='https://media4.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif?cid=ecf05e47gckzp62ximmthpoktx187exborh6ngkbpitki8cy&rid=giphy.gif&ct=s' />
+</div>
 
-<iframe src="https://giphy.com/embed/gjrYDwbjnK8x36xZIO" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/capgemini-techchallenge2020-india-gjrYDwbjnK8x36xZIO">via GIPHY</a></p>
+
 <h1 align="center">Hi 👋, I'm Khalid Gamal Hamed</h1>
 <h3 align="center"> full-stack developer and a petroleum engineer from Egypt</h3>
 
