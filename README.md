@@ -16,7 +16,6 @@ i'm [Khalid Gamal](https://abhishknads.me/), a passionate full stack web develop
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 <br />
-- 🌱 I’m currently learning **Ruby and Rails**
 
 - 📫 How to reach me **khalid.gamal.hamed@gmail.com**
 
